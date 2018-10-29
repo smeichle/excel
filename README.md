@@ -1,4 +1,3 @@
-# excel-sql
 
 ## Data Analysis with Excel/ Google Sheets
 
