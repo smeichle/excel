@@ -2,7 +2,7 @@
 ## Data Analysis with Excel/ Google Sheets
 
 #### Microsoft Excel 
-excel/Biochemistry: 
+excel/biochemistry: 
 1. PeptideChargeCalc.xls Graphical peptide pI calculator
 2. EnzymeKineticsModel.xlsx Models enzyme kinetics data using Michaelis-Menton equation, plots lineweaver-burke plot
 
